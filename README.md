@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omar0xpy" /> 
+	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
 </p>
 
 <h2>
@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 	<a href="https://atcoder.jp/users/Omar0xSenpai" target="_blank"> 
 		<img src="https://gyazo.com/7e3cc31d647b0485085ea10cb72450f0/max_size/1000" alt="AtCoder" style="width: 6%; height: 6%;">
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.hackerrank.com/profile/Omar0xPy" target="_blank"> 
+	<a href="https://www.hackerrank.com/profile/OmarSenpai" target="_blank"> 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Hackerrank" style="width: 5%; height: 5%;">
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://leetcode.com/u/Omar0xPy/" target="_blank"> 
+	<a href="https://leetcode.com/u/OmarSenpai/" target="_blank"> 
 		<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="Leetcode" style="width: 5%; height: 5%;">
 	</a>
 </p>
@@ -89,17 +89,17 @@ Here are some ideas to get you started:
 
 ### Most Used Languages
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar0xPy&layout=compact&theme=transparent&langs_count=8&hide_border=false" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=transparent&langs_count=8&hide_border=false" alt="Most Used Languages" />
 </p>
 
 ### GitHub Stats
 <div>
 	<p align="center" style="animation: fadeIn 2s ease-in-out;">
-	  <img src="https://github-readme-stats.vercel.app/api?username=Omar0xPy&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" />
+	  <img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" />
 	</p>
 
 	
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar0xPy&theme=xcode&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarSenpai&theme=xcode&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis">
 
  </div>
 
