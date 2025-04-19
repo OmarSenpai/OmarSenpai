@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 <h2>
 	<p align="center">
-	🚀 Aspiring Computer Scientist in the Making ... <br>
-	Interested in Algorithms, Mathematics, Machine Learning & Low Level Internals
+	Trying to be a Computer Scientist ... <br>
 	</p>
 </h2>
 
