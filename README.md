@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
   <a href="https://discord.gg/w5PP3KjB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="your-discord-link" height="40" width="40" /></a> 
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Omar_Otaku369" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="X" height="30" width="30" /></a>
+  <a href="https://x.com/OmarSenpai_20" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="X" height="30" width="30" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:Omar80747326@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 		<img src="https://img.icons8.com/?size=160&id=GO78dOMqYNlA&format=png" alt="Codeforces" style="width: 6%; height: 6%;">
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://atcoder.jp/users/Omar0xSenpai" target="_blank"> 
+	<a href="https://atcoder.jp/users/Omar_Senpai" target="_blank"> 
 		<img src="https://gyazo.com/7e3cc31d647b0485085ea10cb72450f0/max_size/1000" alt="AtCoder" style="width: 6%; height: 6%;">
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.hackerrank.com/profile/OmarSenpai" target="_blank"> 
+	<a href="https://www.hackerrank.com/profile/Omar0xPy" target="_blank"> 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Hackerrank" style="width: 5%; height: 5%;">
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
