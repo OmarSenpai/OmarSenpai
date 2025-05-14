@@ -1,6 +1,8 @@
 <h1 align="center" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
 
-- **CS Student & Competitve Programmer**
+<h3>About Me</h3>
+
+- **CS Student & Competitive Programmer**
 - 💻 Currently learning **Algorithms, Mathematics & Data Science**
 - 🔭 Making various random software stuff XD ...
 - Fun fact: A linux user btw :)
@@ -11,22 +13,16 @@
 - 😄 Pronouns: ... -->
 
 <p align="center">
-	<img src="https://gifdb.com/images/high/sung-jin-woo-turning-to-the-side-i1t6vsc87o1tqqrj.gif" />
+	<img src="https://tenor.com/view/soccer-football-anime-blue-lock-isagi-yoichi-gif-27440248" />
 </p>
 
 <p align="center">
-	<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=700&size=25&pause=1000&color=40C39E&width=435&lines=Random+Engineer+%26+Computer+Geek;Type+into+the+Void+and+Compile" alt="Typing SVG" />
+	<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=25&pause=1000&color=40C39E&width=500&lines=Random+Engineer+%26+Computer+Geek;Type+into+the+void+%26+Compile" alt="Typing SVG" />
 </p>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
 </p>
-
-<h2>
-	<p align="center">
-	Aspiring Computer Scientist ... <br>
-	</p>
-</h2>
 
 ---
 
