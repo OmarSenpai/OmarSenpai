@@ -10,14 +10,15 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+- 😄 Pronouns: ...
+-->
 
 <p align="center">
-	<img src="https://tenor.com/view/soccer-football-anime-blue-lock-isagi-yoichi-gif-27440248" />
+	<a href="https://www.pinterest.com/pin/1142858842945594296" /><a/>
 </p>
 
 <p align="center">
-	<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=25&pause=1000&color=40C39E&width=500&lines=Random+Engineer+%26+Computer+Geek;Type+into+the+void+%26+Compile" alt="Typing SVG" />
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=25&pause=1000&color=45D2AB&center=true&vCenter=true&width=550&height=60&lines=Random+Engineer+%26+Computer+Geek;Type+into+the+void+and+Compile+!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
