@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=25&pause=1000&color=45D2AB&center=true&vCenter=true&width=550&height=60&lines=Random+Engineer+%26+Computer+Geek;Type+into+the+void+and+Compile+!" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=3BB392&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
