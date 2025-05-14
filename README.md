@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&pause=1000&width=435&lines=+Hi%2C+I'm+Omar+Mohammed+!" /> 
+	<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=700&size=25&pause=1000&color=40C39E&width=435&lines=Random+Engineer+%26+Computer+Geek;Type+into+the+Void+and+Compile" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,22 +28,9 @@
 	</p>
 </h2>
 
-<h3 align="center" style="animation: fadeIn 2s ease-in-out;">📫 Connect with Me:</h3>
-<p align="center" style="animation: fadeIn 2s ease-in-out;">
-  <a href="https://discord.gg/w5PP3KjB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="your-discord-link" height="40" width="40" /></a> 
- &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/OmarSenpai_20" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="X" height="30" width="30" /></a>
- &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Omar80747326@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" /></a>
- &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/Omar0xM7py/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="FB" height="40" width="40" /></a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://web.facebook.com/OmarOtaku369/?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LinkedIn" height="40" width="40" /></a>
-</p>
-
 ---
 
-<h3 align="center">🛠️ Languages - Frameworks - Tools - Platforms :</h3>
+<h2 align="center">🛠️ Languages - Frameworks - Tools:</h2>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -54,14 +41,16 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h2 align="center">📊 GitHub Stats:</h2>
 
-### Most Used Languages
+
+<h3 align="center">Most Used Languages</h3>
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=transparent&langs_count=8&hide_border=false" alt="Most Used Languages" />
 </p>
 
-### GitHub Stats
+
+<h3 align="center"> GitHub Stats</h3>
 <div>
 	<p align="center" style="animation: fadeIn 2s ease-in-out;">
 	  <img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" />
