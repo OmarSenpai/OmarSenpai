@@ -44,10 +44,10 @@
 ---
 
 <h3 align="center">🛠️ Languages - Frameworks - Tools - Platforms :</h3>
-<p align="center" style="justify content: space-evenly; display: flex;">
+<p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,go,java,cmake,git,github,zed,fedora,fastapi,postman,pandas,numpy,jupyter&theme=light"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,go,java,javascript,typescript,git,github,zed,fedora,cmake,fastapi,postman,numpy,scipy,pandas,matplotlib,jupyter,mongodb,mysql&theme=light&perline=10"
     />
   </a>
 </p>
