@@ -14,7 +14,7 @@
 -->
 
 <p align="center">
-	<a href="https://www.pinterest.com/pin/1142858842945594296" /><a/>
+	<img src="https://github.com/user-attachments/assets/18ab1487-ea63-4f93-b03e-cbf0a0b55907" />
 </p>
 
 <p align="center">
