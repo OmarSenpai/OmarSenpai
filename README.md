@@ -3,9 +3,10 @@
 <h3>About Me</h3>
 
 - **CS Student & Competitive Programmer**
-- 💻 Currently learning **Algorithms, Mathematics & Data Science**
+- 💻 Currently learning **Computer Science & Machine Learning**
 - 🔭 Making various random software stuff XD ...
-- Fun fact: A linux user btw :)
+- Fun fact: I'm a linux user btw :)
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -25,18 +26,16 @@
 	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
 </p>
 
----
-
 <h2 align="center">🛠️ Languages - Frameworks - Tools:</h2>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,go,java,javascript,typescript,git,github,zed,fedora,cmake,fastapi,postman,numpy,scipy,pandas,matplotlib,jupyter,mongodb,mysql&theme=light&perline=10"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,go,java,javascript,typescript,git,github,zed,fedora,cmake,fastapi,postman,numpy,scipy,pandas,matplotlib,jupyter,mysql,mongodb&theme=light&perline=10"
     />
   </a>
 </p>
 
----
+
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
