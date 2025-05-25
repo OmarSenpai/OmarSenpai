@@ -19,41 +19,38 @@
 </p>
 
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=3BB392&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=1f1f1f&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
 </p>
 
-<h2 align="center">🛠️ Languages - Frameworks - Tools:</h2>
+## 🛠️ Languages - Frameworks - Tools:
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,go,java,javascript,typescript,git,github,zed,fedora,cmake,fastapi,postman,numpy,scipy,pandas,matplotlib,jupyter,mysql,mongodb&theme=light&perline=10"
-    />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,go,java,javascript,typescript,git,github&theme=light&perline=12"/>
   </a>
 </p>
 
+<br>
 
-
-<h2 align="center">📊 GitHub Stats:</h2>
-
-
-<h3 align="center">Most Used Languages</h3>
-<p align="center" style="animation: fadeIn 2s ease-in-out;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=transparent&langs_count=8&hide_border=false" alt="Most Used Languages" />
+<p align="center">
+	<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+	<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+	<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+	<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 
-<h3 align="center"> GitHub Stats</h3>
-<div>
-	<p align="center" style="animation: fadeIn 2s ease-in-out;">
-	  <img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" />
-	</p>
+## 📊 GitHub Stats:
+<p align="center" style="animation: fadeIn 2s ease-in-out;">
+	<img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=dark&hide_border=false" height = "220px" alt="GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=dark&langs_count=8&hide_border=false" height = "220px" alt="Most Used Languages" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarSenpai&theme=xcode&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis">
+</div>
 
-	
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarSenpai&theme=xcode&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis">
-
- </div>
-
+<!-- ## 🌐 Socials: -->
