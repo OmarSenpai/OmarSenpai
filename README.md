@@ -50,6 +50,7 @@
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
 	<img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=dark&hide_border=false" height = "220px" alt="GitHub Stats" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=dark&langs_count=8&hide_border=false" height = "220px" alt="Most Used Languages" />
+	<img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OmarSenpai&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
 	<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarSenpai&theme=xcode&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis"> -->
 </div>
 
