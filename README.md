@@ -1,9 +1,5 @@
 <h1 align="center" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
-</p>
-
 <h2>About Me</h2>
 
 **CS Student & Competitive Programmer** who's passionate about **mathematics and algorithms**, with interest in **AI & Machine Learning**.
@@ -16,6 +12,17 @@ Also yep, I'm a Linux user btw 🐧
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+## 🌐 Socials:
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
+</p>
+
+<p align="center">
+	<a href="https://leetcode.com/u/Omar_Senpai" > <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" > </a>
+	<a href="https://codeforces.com/profile/Omar_Senpai" > <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" > </a>
+	<a href="mailto:Omar80747326@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
+</p>
 
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/18ab1487-ea63-4f93-b03e-cbf0a0b55907" />
@@ -50,8 +57,6 @@ Also yep, I'm a Linux user btw 🐧
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
 	<img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=dark&hide_border=false" height = "220px" alt="GitHub Stats" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=dark&langs_count=8&hide_border=false" height = "220px" alt="Most Used Languages" />
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OmarSenpai&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-	<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarSenpai&theme=xcode&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis"> -->
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarSenpai&theme=xcode&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis">
 </div>
 
-<!-- ## 🌐 Socials: -->
