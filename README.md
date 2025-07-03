@@ -24,6 +24,8 @@ Also yep, I'm a Linux user btw 🐧
 	<a href="mailto:Omar80747326@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
 </p>
 
+---
+
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/18ab1487-ea63-4f93-b03e-cbf0a0b55907" />
 </p>
