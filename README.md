@@ -6,8 +6,8 @@
 
 <h2>About Me</h2>
 
-**CS Student & Competitive Programmer** who's passionate about **mathematics and algorithms**, with interest in **AI & Machine Learning**
-Utilizing what I learn in the **computer science** domain to build innovative software using cutting-edge technologies and techniques.
+**CS Student & Competitive Programmer** who's passionate about **mathematics and algorithms**, with interest in **AI & Machine Learning**.
+Utilizing what I learn in the **Computer Science** domain to build innovative software solutions using cutting-edge technologies and techniques.
 Also yep, I'm a Linux user btw 🐧
 
 <!-- - 👯 I’m looking to collaborate on ...
