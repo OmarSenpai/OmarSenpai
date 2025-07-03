@@ -1,11 +1,14 @@
 <h1 align="center" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
 
-<h3>About Me</h3>
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
+</p>
 
-- **CS Student & Competitive Programmer**
-- 💻 Currently learning **Computer Science & Machine Learning**
-- 🔭 Making various random software stuff XD ...
-- Fun fact: I'm a linux user btw :)
+<h2>About Me</h2>
+
+**CS Student & Competitive Programmer** who's passionate about **mathematics and algorithms**, with interest in **AI & Machine Learning**
+Utilizing what I learn in the **computer science** domain to build innovative software using cutting-edge technologies and techniques.
+Also yep, I'm a Linux user btw 🐧
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,9 +25,6 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=ae37fd&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
-</p>
 
 ## 🛠️ Languages - Frameworks - Tools:
 <p align="center">
