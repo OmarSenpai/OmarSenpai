@@ -1,4 +1,8 @@
-<h1 align="left" style="animation: slideIn 1.5s ease-in-out;">Hi 👋</h1>
+<h1 align="left" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
+
+<p align="center">
+	<img src="https://github.com/user-attachments/assets/18ab1487-ea63-4f93-b03e-cbf0a0b55907" />
+</p>
 
 ## About Me
 
@@ -6,11 +10,6 @@
 - *Passionate about **Software Engineering, Algorithms & Mathematics***
 - *Currently Exploring = **[Open Source technologies, Backend, Machine Learning]*** 🌟
 - ***Side Note:** I'm a Linux user btw xD* 🐧
-
-
-<p align="center">
-	<img src="https://github.com/user-attachments/assets/18ab1487-ea63-4f93-b03e-cbf0a0b55907" />
-</p>
 
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=ae37fd&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
@@ -46,7 +45,7 @@
 </p>
 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
 	<img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=swift&hide_border=false" height = "220px" alt="GitHub Stats" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=swift&langs_count=8&hide_border=false" height = "220px" alt="Most Used Languages" />
