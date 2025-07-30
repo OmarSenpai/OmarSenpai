@@ -1,13 +1,12 @@
-<h1 align="center" style="animation: slideIn 1.5s ease-in-out;">Hi 👋</h1>
+<h1 align="left" style="animation: slideIn 1.5s ease-in-out;">Hi 👋</h1>
 
-<h2>About Me</h2>
+## About Me
 
 - ***CS Student & Competitive Programmer***
 - *Passionate about **Software Engineering, Algorithms & Mathematics***
 - *Currently Exploring = **[Open Source technologies, Backend, Machine Learning]*** 🌟
 - ***Side Note:** I'm a Linux user btw xD* 🐧
 
----
 
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/18ab1487-ea63-4f93-b03e-cbf0a0b55907" />
@@ -37,20 +36,19 @@
 	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+	<img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
 	<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-	<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 	<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+	<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 	<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
-	<img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=transparent&hide_border=false" height = "220px" alt="GitHub Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=transparent&langs_count=8&hide_border=false" height = "220px" alt="Most Used Languages" />
-	<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarSenpai&theme=transparent&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis"> -->
+	<img src="https://github-readme-stats.vercel.app/api?username=OmarSenpai&show_icons=true&theme=swift&hide_border=false" height = "220px" alt="GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSenpai&layout=compact&theme=swift&langs_count=8&hide_border=false" height = "220px" alt="Most Used Languages" />
 </div>
 
