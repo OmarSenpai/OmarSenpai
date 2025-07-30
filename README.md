@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 
 - ***CS Student & Competitive Programmer***
-- *Passionate about **Mathematics and Algorithms***
+- *Passionate about **Software Engineering, Mathematics & Algorithms***
 - ***Side Note:** I'm a Linux user btw*🐧
 
 ---
