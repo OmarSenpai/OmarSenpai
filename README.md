@@ -2,27 +2,9 @@
 
 <h2>About Me</h2>
 
-**CS Student & Competitive Programmer** who's passionate about **mathematics and algorithms**, with interest in **AI & Machine Learning**.
-Utilizing what I learn in the **Computer Science** domain to build innovative software solutions using cutting-edge technologies and techniques.
-Also yep, I'm a Linux user btw 🐧
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
-
-## 🌐 Socials:
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
-</p>
-
-<p align="center">
-	<a href="https://leetcode.com/u/Omar_Senpai" > <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" > </a>
-	<a href="https://codeforces.com/profile/Omar_Senpai" > <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" > </a>
-	<a href="mailto:Omar80747326@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
-</p>
+- ***CS Student & Competitive Programmer***
+- *Passionate about **Mathematics and Algorithms***
+- ***Side Note:** I'm a Linux user btw*🐧
 
 ---
 
@@ -32,6 +14,18 @@ Also yep, I'm a Linux user btw 🐧
 
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=ae37fd&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
+</p>
+
+## 🌐 Socials:
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=OmarSenpai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="OmarSenpai" /> 
+</p>
+
+<p align="center">
+	<a href="https://x.com/OmarSenpai_20" > <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" > </a>
+	<a href="mailto:Omar80747326@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
+	<a href="https://codeforces.com/profile/Omar_Senpai" > <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" > </a>
+	<a href="https://leetcode.com/u/Omar_Senpai" > <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" > </a>
 </p>
 
 
