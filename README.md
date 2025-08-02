@@ -1,8 +1,8 @@
 <h1 align="left" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
 
-<p align="center">
+<!-- <p align="center">
 	<img src="https://github.com/user-attachments/assets/18ab1487-ea63-4f93-b03e-cbf0a0b55907" />
-</p>
+</p> --->
 
 ## About Me
 
