@@ -25,8 +25,8 @@
 <p align="center">
 	<a href="https://x.com/OmarSenpai_20" > <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" > </a>
 	<a href="mailto:Omar80747326@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
-	<a href="https://codeforces.com/profile/Omar_Senpai" > <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" > </a>
-	<a href="https://leetcode.com/u/Omar_Senpai" > <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" > </a>
+	<a href="https://codeforces.com/profile/Omar_Senpai" > <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" > </a>
+	<a href="https://leetcode.com/u/Omar_Senpai" > <img src="https://img.shields.io/badge/LeetCode-313131?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" > </a>
 </p>
 
 
