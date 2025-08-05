@@ -1,5 +1,9 @@
 <h1 align="left" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
 
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=ae37fd&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
+</p>
+
 <!-- <p align="center">
 	<img src="https://github.com/user-attachments/assets/18ab1487-ea63-4f93-b03e-cbf0a0b55907" />
 </p> --->
@@ -11,9 +15,7 @@
 - *Currently Exploring = **[Open Source technologies, Backend, Machine Learning]*** 🌟
 - ***Side Note:** I'm a Linux user btw xD* 🐧
 
-<p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=ae37fd&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
-</p>
+
 
 ## 🌐 Socials:
 <p align="center">
@@ -32,16 +34,14 @@
 <br>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-	<img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
-	<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-	<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-	<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-	<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" width=5.5%, height=5.5%>
+	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width=5.5%, height=5.5%>
+	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" width=5%, height=5%>
+	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original.svg" width=5%, height=5%>
+	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" width=5%, height=5%>
+	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" width=5%, height=5%>
+	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original.svg" width=5%, height=5%>
+	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" width=5%, height=5%>
 </p>
 
 
