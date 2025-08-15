@@ -1,7 +1,7 @@
 <h1 align="left" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
 
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=GeistMono+Nerd+Font+Mono&weight=900&size=22&pause=1000&color=ae37fd&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=ae37fd&center=true&vCenter=true&width=600&height=60&lines=Type+into+the+void+and+Compile+!;Code+Hard,+Debug+Harder." alt="Typing SVG" /></a>
 </p>
 
 <!-- <p align="center">
@@ -36,7 +36,6 @@
 <p align="center">
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" width=5.5%, height=5.5%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width=5.5%, height=5.5%>
-	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" width=5%, height=5%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original.svg" width=5%, height=5%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" width=5%, height=5%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" width=5%, height=5%>
