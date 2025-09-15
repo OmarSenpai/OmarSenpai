@@ -37,6 +37,7 @@
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" width=5.5%, height=5.5%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width=5.5%, height=5.5%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original.svg" width=5%, height=5%>
+	<img src="https://avatars.githubusercontent.com/u/110818415?v=4" width=6%, height=6%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" width=5%, height=5%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" width=5%, height=5%>
 	<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original.svg" width=5%, height=5%>
