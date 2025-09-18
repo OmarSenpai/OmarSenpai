@@ -14,6 +14,7 @@
 - 🐧 ***Side Note:** I'm a Linux user btw xD*
 
 
+
 ## Skills:
 
 - **Languages**:  
@@ -25,6 +26,21 @@
 - **Tools & Platforms**:  
   `Git` `GitHub` `Linux` `Postman` `JupyterLab`
 
+
+
+## Ongoing Endeavors:
+
+📚 **[Learning Corner]**
+- Mathematics
+- Machine Learning
+- OS & low-level programming
+- System Design
+
+<br>
+
+🦾 **[Projects]**
+- [**Katana Shell**](https://github.com/OmarSenpai/Katana_Shell) — A POSIX-compliant UNIX shell
+- [**AniXapi**](https://github.com/OmarSenpai/AniXapi) — An Anime platform RESTful API for managing & rating Anime collections
 
 
 ## Connections:
