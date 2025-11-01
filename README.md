@@ -6,7 +6,7 @@
 - 🎯 ***CS Student & Competitive Programmer***
 - ⚡ *Passionate about **Software Engineering, Algorithms & Mathematics***
 - 🌟 *Currently Exploring = **[Open Source technologies, Backend Development, Machine Learning]***
-- 🐧 ***Side Note:** I'm a Linux user btw xD*
+- 🐧 ***Side Note:** I'm using Linux & nvim btw xD*
 
 
 
