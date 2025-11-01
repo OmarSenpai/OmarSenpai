@@ -5,22 +5,21 @@
 
 - 🎯 ***CS Student & Competitive Programmer***
 - ⚡ *Passionate about **Software Engineering, Algorithms & Mathematics***
-- 🌟 *Currently Exploring = **[Open Source technologies, Backend Development, Machine Learning]***
+- 🌟 *Currently Exploring = **[Open Source, Backend Development, Machine Learning]***
 - 🐧 ***Side Note:** I'm using Linux & nvim btw xD*
 
 
 
 ## Skills:
 
-- **Languages**:  
+- ***Languages***:  
   `C++` `Python` `Go`
-- **Frameworks & Libraries**:  
+- ***Frameworks & Libraries***:  
   `FastAPI` `Pydantic` `NumPy` `Pandas` `matplotlib` `CMake`
-- **Databases & ORMs**:  
+- ***Databases & ORMs***:  
   `MySQL` `PostgreSQL` `SQLalchemy`
-- **Tools & Platforms**:  
+- ***Tools & Platforms***:  
   `Git` `GitHub` `Linux` `Postman` `JupyterLab`
-
 
 
 ## Ongoing Endeavors:
