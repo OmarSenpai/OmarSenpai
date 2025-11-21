@@ -1,5 +1,5 @@
 
-## About Me
+# About Me
 
 - 🎯 ***CS Student & Competitive Programmer***
 - ⚡ *Passionate about **Software Engineering, Algorithms & Mathematics***
@@ -22,17 +22,15 @@
 
 ## Ongoing Endeavors:
 
-📚 **[Learning Corner]**
+### 📚 Learning Corner
 - Software Development
 - Machine Learning
 - Computer Systems
 
-<br>
-
-🦾 **[Projects]**
-- [**Katana Shell**](https://github.com/OmarSenpai/Katana_Shell) — A POSIX-compliant UNIX shell
-- [**AniXapi**](https://github.com/OmarSenpai/AniXapi) — An Anime platform RESTful API for managing & rating Anime collections
-- [**Dotfiles**](https://github.com/OmarSenpai/Dotfiles) — My linux dotfiles
+### 🦾 Projects
+- [**Katana Shell**](https://github.com/S9npai/Katana_Shell) — A POSIX-compliant UNIX shell
+- [**AniXapi**](https://github.com/S9npai/AniXapi) — An Anime platform RESTful API for managing & rating Anime collections
+- [**Dotfiles**](https://github.com/S9npai/Dotfiles) — My linux dots
 
 
 ## Connections:
